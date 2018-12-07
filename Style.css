@@ -148,5 +148,73 @@ float:center;
 }
 
 .Show{
-  margin-left:4em;
+  margin-left:5%;
+  color: white;
+  background: black;
 }
+
+.moreAboutMe{
+  color: white;
+  background: black;
+}
+
+
+
+   
+ .tab > li.active > a,
+   
+ .tab > li.active > a:focus,
+   
+ .tab > li.active > a:hover{
+   
+  background-color: black !important;
+   
+  color:#fff;
+   
+  border:2px solid #3F515F;
+   
+  }
+
+  .col-container {
+    display: table;
+    display: flex;
+    width: 100%;
+  }
+  .col {
+    display: table-cell;
+    border: 0.5em solid whitesmoke;
+    
+    padding: 16px;
+  }
+
+  #DAFMLOGO{
+    height: 15em;
+    width:100%;
+    border: 0.09em solid black;  
+  }
+
+  #UnipharLogo{
+    height: 15em;
+    width:100%; 
+    border: 0.09em solid black;   
+  }
+
+  .ReadMoreUniphar{
+    background-color: black;
+    color:white;
+    margin-right: 10%;
+  }
+
+  .ReadMoreDAFM{
+    background-color: black;
+    color:white;
+  }
+
+  .UnipharDes{
+    display:none;
+  }
+
+  .DAFMDes{
+    display:none;
+  }
+  

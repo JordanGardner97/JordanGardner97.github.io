@@ -41,3 +41,44 @@ function showMoreAboutMe(){
     }
     
     }
+
+
+    var UnipharReadMeCount = 0;
+
+function ReadMoreUnipharFunction(){
+    if (UnipharReadMeCount ==0)
+    {
+        $('.UnipharDes').css("display","block");
+        UnipharReadMeCount +=1;
+        $('.ReadMoreUniphar').text("Read Less")
+    }
+    
+    else
+    {
+        $('.UnipharDes').css("display","none");
+        UnipharReadMeCount = 0;
+        $('.ReadMoreUniphar').text("Read More")
+    }
+    
+    }
+
+
+
+    var DAFMReadMeCount = 0;
+
+function ReadMoreDAFMFunction(){
+    if (DAFMReadMeCount ==0)
+    {
+        $('.DAFMDes').css("display","block");
+        DAFMReadMeCount +=1;
+        $('.ReadMoreDAFM').text("Read Less")
+    }
+    
+    else
+    {
+        $('.DAFMDes').css("display","none");
+        DAFMReadMeCount = 0;
+        $('.ReadMoreDAFM').text("Read More")
+    }
+    
+    }
