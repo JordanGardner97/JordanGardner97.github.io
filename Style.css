@@ -1,0 +1,150 @@
+
+
+#aboutMe, #education, #CollegeResults, #workExp, header{
+  margin-left: 	5em;
+  padding-top:	5em;
+  padding-right: 5em;
+}
+
+header {
+  color:			blue;
+}
+
+header p{
+  color:			black;
+  padding:		1em 10em 0em 10em;
+}
+
+.My-buttons{
+  padding-top: 5em;
+  margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#welcomeButtons {
+float:center;
+  
+}
+
+
+
+.my-Img{
+  float:center;
+  height: 20em;
+  width: 20em;
+  border: 0.5em solid whitesmoke;
+  margin-left: auto;
+	margin-right: auto;
+  display: block;
+
+}
+
+
+#buttons{
+ 
+  padding: 2em;
+  
+}
+
+
+#ImgDiv{
+  padding-top:2em;
+  
+}
+
+
+
+
+#searchBar{
+  margin-right: 500em;
+}
+
+.jumbotron {
+  color: white;
+  background-color:grey;    
+  width:100%;
+}
+
+
+
+
+#tech{
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+
+
+
+
+
+.carousel .item img {
+   
+  width: 100%;
+  height: 23em;
+}
+
+.myDiv{
+  size: 0ch;
+}
+.mystyle {
+  width: 100%;
+  padding: 25px;
+  background-color: coral;
+  color: white;
+  font-size: 25px;
+}
+
+#CollegeResults{
+  display:none;
+}
+
+#Olm{
+  width:100%;
+  height:12em;
+}
+
+#SocailMedia{
+  margin:0.5em
+}
+
+.Itt{
+  margin:1em;
+}
+
+.OlmDiv{
+  margin:1em;
+}
+
+#IttLogo{
+  width:100%;
+  height:12em;
+  
+  
+}
+
+
+
+.olmtxt{
+  margin-left: 10%;
+}
+
+.carousel-indicators{
+  color: black;
+  background: grey;
+}
+
+
+
+.aboutMeIcon{
+  font-size:30px;
+  color:black;
+  
+}
+  
+.hidAboutMeDiv{
+  display:none;
+}
