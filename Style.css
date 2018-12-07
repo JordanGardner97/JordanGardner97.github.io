@@ -128,9 +128,7 @@ float:center;
 
 
 
-.olmtxt{
-  margin-left: 10%;
-}
+
 
 .carousel-indicators{
   color: black;
@@ -147,4 +145,8 @@ float:center;
   
 .hidAboutMeDiv{
   display:none;
+}
+
+.Show{
+  margin-left:4em;
 }

@@ -18,7 +18,7 @@ else
 {
     $('#CollegeResults').css("display","none");
     count = 0;
-    $('.Show').text("Show Grades")
+    $('.Show').text("Show Grades Below")
 }
 
 }
