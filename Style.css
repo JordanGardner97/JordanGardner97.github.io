@@ -1,6 +1,6 @@
 
 
-#aboutMe, #education, #CollegeResults, #workExp, header{
+#aboutMe, #education, #CollegeResults, #workExp, header,#projects{
   margin-left: 	5%;
   padding-top:	5%;
   padding-right: 5%;
@@ -103,8 +103,8 @@ float:center;
 }
 
 #Olm{
-  width:100%;
-  height:12em;
+  width:75%;
+  height:13em;
 }
 
 #SocailMedia{
@@ -218,3 +218,25 @@ float:center;
     display:none;
   }
   
+
+
+  .panel > .panel-heading {
+    background-image: none;
+    background-color: black;
+    color: white;
+
+}
+.learnMoreBtn{
+  background-color: black;
+  color:white;
+  
+}
+
+.learnMoreBtn:hover{
+  background-color: white;
+  color:black;
+}
+
+.tick{
+  color:rgb(8, 182, 23);
+}
