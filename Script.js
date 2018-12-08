@@ -82,3 +82,24 @@ function ReadMoreDAFMFunction(){
     }
     
     }
+
+
+
+    var SkillsCount = 0;
+
+    function SeeMoreSkillsFunction(){
+        if (SkillsCount ==0)
+        {
+            $('.SkillsToBeHidden').css("display","block");
+            SkillsCount +=1;
+            $('.SeeMoreSkills').text("See Less")
+        }
+        
+        else
+        {
+            $('.SkillsToBeHidden').css("display","none");
+            SkillsCount = 0;
+            $('.SeeMoreSkills').text("See More")
+        }
+        
+        }

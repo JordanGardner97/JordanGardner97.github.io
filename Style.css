@@ -1,7 +1,7 @@
 
 
-#aboutMe, #education, #CollegeResults, #workExp, header,#projects{
-  margin-left: 	5%;
+#aboutMe, #education, #CollegeResults, #workExp, header,#projects,#SkillDiv{
+  margin-left: 	10%;
   padding-top:	5%;
   padding-right: 5%;
 }
@@ -121,7 +121,7 @@ float:center;
 
 #IttLogo{
   width:100%;
-  height:12em;
+  height:13em;
   
   
 }
@@ -242,4 +242,26 @@ float:center;
 }
 .Ongoing{
   color:orange;
+}
+.skills{
+  background-color: black;
+}
+
+.progress{
+  margin-left: 6%;
+  margin-right: 20%;
+}
+
+
+
+
+.SkillsToBeHidden{
+  display:none;
+}
+
+
+.SeeMoreSkills{
+  margin-left: 6%;
+  background-color: black;
+  color:white;
 }
