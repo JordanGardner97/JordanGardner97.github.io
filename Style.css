@@ -153,11 +153,21 @@ float:center;
   background: black;
 }
 
+.Show:hover{
+  margin-left:5%;
+  color: black;
+  background: white;
+}
+
 .moreAboutMe{
   color: white;
   background: black;
 }
 
+.moreAboutMe:hover{
+  color: black;
+  background: white;
+}
 
 
    
@@ -205,9 +215,20 @@ float:center;
     margin-right: 10%;
   }
 
+  .ReadMoreUniphar:hover{
+    background-color: white;
+    color:black;
+    
+  }
+
   .ReadMoreDAFM{
     background-color: black;
     color:white;
+  }
+
+  .ReadMoreDAFM:hover{
+    background-color: white;
+    color:black;
   }
 
   .UnipharDes{
@@ -264,4 +285,10 @@ float:center;
   margin-left: 6%;
   background-color: black;
   color:white;
+}
+
+.SeeMoreSkills:hover{
+  margin-left: 6%;
+  background-color: white;
+  color:black;
 }
