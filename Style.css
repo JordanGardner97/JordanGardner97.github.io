@@ -103,6 +103,7 @@ float:center;
 }
 
 #Olm{
+  margin-right: 120%;
   width:75%;
   height:15em;
 }
@@ -130,10 +131,7 @@ float:center;
 
 
 
-.carousel-indicators{
-  color: black;
-  background: grey;
-}
+
 
 
 
@@ -269,7 +267,7 @@ float:center;
 }
 
 .progress{
-  margin-left: %;
+ 
   margin-right: 20%;
 }
 
@@ -282,13 +280,13 @@ float:center;
 
 
 .SeeMoreSkills{
-  margin-left: 4%;
+ 
   background-color: black;
   color:white;
 }
 
 .SeeMoreSkills:hover{
-  margin-left: 4%;
+  
   background-color: white;
   color:black;
 }
@@ -296,4 +294,10 @@ float:center;
 
 .footer{
   margin-top: 1em;
+}
+
+
+
+.modal.and.carousel {
+  position: fixed;
 }
