@@ -66,7 +66,7 @@
 					
 				</ul>
 			</div>
-	 </div>
+	</div>
 	
 	</nav>
 
@@ -113,7 +113,7 @@
     
        <div id="Webpage">
 		<h1>Page is hosted at</h1>
-		<h4><a href ="https://jordangardner97.github.io/">https://jordangardner97.github.io/</a></h4>
+		<h2><a href ="https://jordangardner97.github.io/">https://jordangardner97.github.io/</a>  </h2>
 	   </div>
 
 
@@ -222,6 +222,12 @@
 	</div>
     </section>
 	
+
+
+
+
+</div>
+
 		
 
 </body>
